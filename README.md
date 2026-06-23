@@ -49,6 +49,14 @@ ProjectSettings/
 | Fren / Geri | Sol Alt Buton |
 | Duraklat | Sağ Üst Buton |
 
+## 📸 Ekran Görüntüleri
+
+- [🏠 Ana Menü](Screenshots/ana-menu.png)
+- [🚗 Garaj](Screenshots/garaj.png)
+- [🗺️ Haritalar](Screenshots/haritalar.png)
+- [⬆️ Geliştirme Sistemi](Screenshots/gelistirme.png)
+- [🎮 Oyun Ekranı](Screenshots/oyun-ekrani.png)
+
 ## 🚀 Kurulum
 
 1. Repoyu klonlayın:
