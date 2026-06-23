@@ -51,11 +51,11 @@ ProjectSettings/
 
 ## 📸 Ekran Görüntüleri
 
-- [🏠 Ana Menü](Screenshots/ana-menu.png)
-- [🚗 Garaj](Screenshots/garaj.png)
-- [🗺️ Haritalar](Screenshots/haritalar.png)
-- [⬆️ Geliştirme Sistemi](Screenshots/gelistirme.png)
-- [🎮 Oyun Ekranı](Screenshots/oyun-ekrani.png)
+- [🏠 Ana Menü](Screenshots/Ana-Menu.png)
+- [🚗 Garaj](Screenshots/Garaj.png)
+- [🗺️ Haritalar](Screenshots/Haritalar.png)
+- [⬆️ Geliştirme Sistemi](Screenshots/Gelistirme.png)
+- [🎮 Oyun Ekranı](Screenshots/Oyun-Ekrani.png)
 
 ## 🚀 Kurulum
 
