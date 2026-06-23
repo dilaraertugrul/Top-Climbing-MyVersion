@@ -1,22 +1,23 @@
-# Unity tarafından üretilen / kullanıcıya özel klasörler (repoya girmemeli)
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-/[Mm]emoryCaptures/
-/[Rr]ecordings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
 
-# Asset meta dosyaları silinmiş asset için
-/[Aa]ssets/AssetStoreTools*
-/[Aa]ssets/Plugins/Editor/JetBrains*
+MemoryCaptures/
 
-# Otomatik üretilen IDE / proje dosyaları
+Assets/AssetStoreTools*
+
 .vs/
 .gradle/
+
 ExportedObj/
+
+.consulo/
+.idea/
+
 *.csproj
 *.unityproj
 *.sln
@@ -26,27 +27,5 @@ ExportedObj/
 *.userprefs
 *.pidb
 *.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
 
-# Unity3D oluşturulan crash raporları
-sysinfo.txt
-
-# Derleme çıktıları
-*.apk
-*.aab
-*.unitypackage
-*.app
-
-# Crashlytics
-crashlytics-build.properties
-
-# Editör / OS dosyaları
 .DS_Store
-.idea/
-
-# Claude Code yerel ayarları
-.claude/settings.local.json
